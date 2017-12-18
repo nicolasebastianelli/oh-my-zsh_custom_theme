@@ -1,9 +1,3 @@
-#
-# Spaceship ZSH Theme
-#
-# Author: Denys Dovhan, denysdovhan.com
-# License: MIT
-# https://github.com/denysdovhan/spaceship-zsh-theme
 
 NEWLINE='
 '
